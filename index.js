@@ -26,7 +26,11 @@ app.get('/courses/:id', (req, res) => {
 })
 
 // api for checkout course
-app.get
+app.get('/checkout/:id', (req, res) => {
+    const id = req.params.id 
+    const selectedCourse = premium.find(p => p.id == id)
+    res.send(selectedCourse)
+})
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
