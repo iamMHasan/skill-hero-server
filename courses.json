@@ -1,0 +1,33 @@
+[
+    {
+        "id" : 1,
+        "name" : "HTML MASTERY",
+        "image" : "https://cdn-icons-png.flaticon.com/512/732/732212.png"
+    },
+    {
+        "id" : 2,
+        "name" : "CSS MASTERY",
+        "image" : "https://cdn-icons-png.flaticon.com/512/732/732190.png"
+    },
+    {
+        "id" : 3,
+        "name" : "PYTHON MASTERY",
+        "image" : "https://cdn-icons-png.flaticon.com/512/5968/5968350.png"
+
+    },
+    {
+        "id" : 4,
+        "name" : "C++ MASTERY",
+        "image" : "https://cdn-icons-png.flaticon.com/512/6132/6132222.png"
+    },
+    {
+        "id" : 5,
+        "name" : "JAVA MASTERY",
+        "image" : "https://cdn-icons-png.flaticon.com/512/5968/5968282.png"
+    },
+    {
+        "id" : 6,
+        "name" : "PHP MASTERY",
+        "image" : "https://cdn-icons-png.flaticon.com/512/919/919830.png"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "name" : "HTML MASTERY",
+        "image" : "https://html.com/wp-content/uploads/html-hpg-featured-new.png",
+        "details" : "Learn HTML effeciently. In this course you will learn the topic from basic to advance. After finishing the course completely you will be master in this field"
+    },
+    {
+        "id" : 2,
+        "name" : "CSS MASTERY",
+        "image" : "https://i.ytimg.com/vi/1Rs2ND1ryYc/maxresdefault.jpg",
+        "details" : "Learn CSS effeciently. In this course you will learn the topic from basic to advance. After finishing the course completely you will be master in this field"
+    },
+    {
+        "id" : 3,
+        "name" : "PYTHON MASTERY",
+        "image" : "https://www.fossmint.com/wp-content/uploads/2020/03/Udemy-Advance-Python-Learning-Courses.png",
+        "details" : "Learn PYTHON effeciently. In this course you will learn the topic from basic to advance. After finishing the course completely you will be master in this field"
+    },
+    {
+        "id" : 4,
+        "name" : "C++ MASTERY",
+        "image" : "https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1551437392/img/co_img_1539_1633434090.png",
+        "details" : "Learn C++ effeciently. In this course you will learn the topic from basic to advance. After finishing the course completely you will be master in this field"
+    },
+    {
+        "id" : 5,
+        "name" : "JAVA MASTERY",
+        "image" : "https://www.classcentral.com/report/wp-content/uploads/2022/05/Java-BCG-Banner.png",
+        "details" : "Learn JAVA effeciently. In this course you will learn the topic from basic to advance. After finishing the course completely you will be master in this field"
+    },
+    {
+        "id" : 6,
+        "name" : "PHP MASTERY",
+        "image" : "https://i.ytimg.com/vi/6EukZDFE_Zg/maxresdefault.jpg",
+        "details" : "Learn PHP effeciently. In this course you will learn the topic from basic to advance. After finishing the course completely you will be master in this field"
+    }
+]

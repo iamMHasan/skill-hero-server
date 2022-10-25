@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 1,
+       "details" : "WELCOME TO HTML MASTERY PREMIUM COURSES"
+    },
+    {
+        "id" : 2,
+        "details" : "WELCOME TO CSS MASTERY PREMIUM COURSES"
+    },
+    {
+        "id" : 3,
+        "details" : "WELCOME TO PYTHON MASTERY PREMIUM COURSES"
+
+    },
+    {
+        "id" : 4,
+        "details" : "WELCOME TO C++ MASTERY PREMIUM COURSES"
+    },
+    {
+        "id" : 5,
+        "details" : "WELCOME TO JAVA MASTERY PREMIUM COURSES"
+    },
+    {
+        "id" : 6,
+        "details" : "WELCOME TO PHP MASTERY PREMIUM COURSES"
+    }
+]
