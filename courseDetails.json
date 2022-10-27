@@ -4,7 +4,7 @@
         "name" : "Welcome to HTML MASTERY with Skill Hero.",
         "image" : "https://html.com/wp-content/uploads/html-hpg-featured-new.png",
         "details" : "Learn HTML effeciently. In this course you will learn the topic from basic to advance. After finishing the course completely you will be master in this field",
-        "more_details_heading" : "About this HTML Course",
+        "more_details_heading" : "This course aim to make you best in HTML",
         "more_details_body" : "This course aims to teach everyone the basics of programming computers using HTML. We cover the basics of how one constructs a program from a series of simple instructions in HTML.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “HTML for Everybody”.  Once a student completes this course, they will be ready to take more advanced programming courses."
         
     },
@@ -13,7 +13,7 @@
         "name" : "Welcome to CSS MASTERY with Skill Hero.",
         "image" : "https://i.ytimg.com/vi/1Rs2ND1ryYc/maxresdefault.jpg",
         "details" : "Learn CSS effeciently. In this course you will learn the topic from basic to advance. After finishing the course completely you will be master in this field",
-        "more_details_heading" : "About this CSS Course",
+        "more_details_heading" : "This course aim to make you best in CSS",
         "more_details_body" : "This course aims to teach everyone the basics of programming computers using CSS. We cover the basics of how one constructs a program from a series of simple instructions in CSS.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “CSS for Everybody”.  Once a student completes this course, they will be ready to take more advanced programming courses."
     },
     {
@@ -21,7 +21,7 @@
         "name" : "Welcome to PYTHON MASTERY with Skill Hero.",
         "image" : "https://www.fossmint.com/wp-content/uploads/2020/03/Udemy-Advance-Python-Learning-Courses.png",
         "details" : "Learn PYTHON effeciently. In this course you will learn the topic from basic to advance. After finishing the course completely you will be master in this field",
-        "more_details_heading" : "About this PYTHON Course",
+        "more_details_heading" : "This course aim to make you best in PYTHON",
         "more_details_body" : "This course aims to teach everyone the basics of programming computers using PYTHON. We cover the basics of how one constructs a program from a series of simple instructions in PYTHON.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “PYTHON for Everybody”.  Once a student completes this course, they will be ready to take more advanced programming courses."
     },
     {
@@ -29,7 +29,7 @@
         "name" : "Welcome to C++ MASTERY with Skill Hero.",
         "image" : "https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1551437392/img/co_img_1539_1633434090.png",
         "details" : "Learn C++ effeciently. In this course you will learn the topic from basic to advance. After finishing the course completely you will be master in this field",
-        "more_details_heading" : "About this C++ Course",
+        "more_details_heading" : "This course aim to make you best in C++",
         "more_details_body" : "This course aims to teach everyone the basics of programming computers using C++. We cover the basics of how one constructs a program from a series of simple instructions in C++.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “C++ for Everybody”.  Once a student completes this course, they will be ready to take more advanced programming courses"
     },
     {
@@ -37,7 +37,7 @@
         "name" : "Welcome to JAVA MASTERY with Skill Hero.",
         "image" : "https://www.classcentral.com/report/wp-content/uploads/2022/05/Java-BCG-Banner.png",
         "details" : "Learn JAVA effeciently. In this course you will learn the topic from basic to advance. After finishing the course completely you will be master in this field",
-        "more_details_heading" : "About this JAVA Course",
+        "more_details_heading" : "This course aim to make you best in JAVA",
         "more_details_body" : "This course aims to teach everyone the basics of programming computers using JAVA. We cover the basics of how one constructs a program from a series of simple instructions in JAVA.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “JAVA for Everybody”.  Once a student completes this course, they will be ready to take more advanced programming courses."
     },
     {
@@ -45,7 +45,7 @@
         "name" : "Welcome to PHP MASTERY with Skill Hero.",
         "image" : "https://i.ytimg.com/vi/6EukZDFE_Zg/maxresdefault.jpg",
         "details" : "Learn PHP effeciently. In this course you will learn the topic from basic to advance. After finishing the course completely you will be master in this field",
-        "more_details_heading" : "About this PHP Course",
+        "more_details_heading" : "This course aim to make you best in PHP",
         "more_details_body" : "This course aims to teach everyone the basics of programming computers using PHP. We cover the basics of how one constructs a program from a series of simple instructions in PHP.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “PHP for Everybody”.  Once a student completes this course, they will be ready to take more advanced programming courses."
     }
 ]
